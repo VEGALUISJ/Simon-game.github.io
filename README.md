@@ -7,7 +7,7 @@ This is a game full displayed using basic HTML, CSS, and a Lot javascript code, 
 
 NOTE: to show the pretty dialogs pop-ups was used https://sweetalert.js.org
 
-### Technologies used
+### Technologies used:
 - Javascript, CSS & HTML.
 
 ##### Cool Features
