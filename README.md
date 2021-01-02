@@ -10,7 +10,7 @@ NOTE: to show the pretty dialogs pop-ups was used https://sweetalert.js.org
 ### Technologies used:
 - Javascript, CSS & HTML
 
-##### Cool Features
+##### Cool Features:
 
 Great display showing the game.
 Customizable game level.
